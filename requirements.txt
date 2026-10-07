@@ -1,7 +1,7 @@
 bcrypt==4.0.1
 cryptography
 fastapi
-psycopg2-binary
+psycopg2-binary>=2.9.11
 PyMySQL
 python-jose
 python-multipart
