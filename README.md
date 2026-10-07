@@ -95,7 +95,5 @@ Follow these steps to run the project locally.
 
 ## 🌐 Live Demo
 
-git hub repository link:https://github.com/farhancoded/fastapi-todoapp.git
-
 
 Render live link:https://fastapi-todoapp-4mbv.onrender.com/docs
